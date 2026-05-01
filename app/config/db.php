@@ -1,6 +1,6 @@
 <?php
 
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'maglev.proxy.rlwy.net');
 define('DB_NAME', 'qhsdr_db');
 define('DB_USER', 'root');
 define('DB_PASS', '');
